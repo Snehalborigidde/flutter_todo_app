@@ -116,7 +116,7 @@ class _MyAppState extends State<MyApp> {
       theme: AppThemes.lightTheme,
       darkTheme: AppThemes.darkTheme,
       themeMode: _themeMode,
-      title: 'Flutter ToDo App',
+      title: 'ToDo App',
       locale: _locale,
       localizationsDelegates: [
         AppLocalizations.delegate,
