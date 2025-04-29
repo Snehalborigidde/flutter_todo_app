@@ -1,0 +1,7 @@
+{
+  "@@locale": "hi",
+  "appTitle": "टूडू ऐप",
+  "addTodo": "टूडू जोड़ें",
+  "welcomeMessage": "स्वागत है {username},",
+  "login": "लॉग इन करें"
+}

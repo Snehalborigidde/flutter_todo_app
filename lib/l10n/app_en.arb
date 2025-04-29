@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "Todo App",
+  "addTodo": "Add Todo",
+  "welcomeMessage": "Welcome {username},",
+  "login": "Login"
+
+}
+
